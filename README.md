@@ -36,5 +36,4 @@
 
 [![Linkedin](https://img.shields.io/badge/-iagopacheco-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iago-pacheco-120a88242/)](https://www.linkedin.com/in/iago-pacheco-120a88242/)
 [![Gmail Badge](https://img.shields.io/badge/-contato@iagopacheco.com.br-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://discordapp.com/channels/1221526228691980371/1230983573205680250/1304113881370722445)
-)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/euiago01)
