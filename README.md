@@ -31,8 +31,19 @@ About Me
 
 <h2>Contact Me</h2>
 
-[![Linkedin](https://img.shields.io/badge/-iagopacheco-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iago-pacheco-120a88242/)](https://www.linkedin.com/in/iago-pacheco-120a88242/)
-[![Gmail Badge](https://img.shields.io/badge/-contato@iagopacheco.com.br-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
+<a href="https://www.linkedin.com/in/iago-pacheco-120a88242/" target="_blank">
+  <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn" />
+</a>
+
+
+<a href="mailto:contato@iagopacheco.com.br" target="_blank">
+  <img src="https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=maildotru&logoColor=white" alt="Email" />
+</a>
+
+<a href="https://discordapp.com/users/997994772180504607" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
+</a>
+
 
 <hr>
 
