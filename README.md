@@ -1,12 +1,14 @@
-<img src="computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+About Me  
+🎓 Hi, I'm <strong>Iago Pacheco</strong>, a Computer Science student passionate about technology and innovation.  
+📘 Currently focused on learning <strong>C#</strong> and diving deeper into its potential for software development.  
+🚀 My goal is to grow continuously and contribute to impactful projects that make a difference in the tech world!
 
+<img src="computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <h3>Skills</h3>
 
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
 [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)
-
-
 
 **DevOps**
 
@@ -23,10 +25,17 @@
 <br/>
 
 <a href="https://github.com/iagopacheco01" title="Perfil do iago">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iagopacheco01&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iagopacheco01&theme=tokyonight&show_icons=true" />
 </a>
+
 
 <h2>Contact Me</h2>
 
 [![Linkedin](https://img.shields.io/badge/-iagopacheco-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iago-pacheco-120a88242/)](https://www.linkedin.com/in/iago-pacheco-120a88242/)
 [![Gmail Badge](https://img.shields.io/badge/-contato@iagopacheco.com.br-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
+
+<hr>
+
+<p align="center">
+  <em>"Technology is best when it brings people together." – Matt Mullenweg</em>
+</p>
