@@ -1,5 +1,5 @@
 About Me  
-🎓 Hi, I'm <strong>Iago Pacheco</strong>, a Computer Science student passionate about technology and innovation.  
+🎓 Hi, I'm <strong>Iago Pacheco</strong>, a student passionate about technology and innovation.  
 📘 Currently focused on learning <strong>C#</strong> and diving deeper into its potential for software development.  
 🚀 My goal is to grow continuously and contribute to impactful projects that make a difference in the tech world!
 
