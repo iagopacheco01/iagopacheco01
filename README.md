@@ -1,6 +1,7 @@
-About Me  
-🎓 Hi, I'm Iago Pacheco, a student passionate about technology and innovation.
-📘 Currently specializing in full-stack development and exploring its vast potential for building dynamic and efficient applications.
+## About Me
+
+🎓 Hi, I'm **Iago Pacheco**, a student passionate about technology and innovation.  
+📘 Currently specializing in **full-stack development** and exploring its vast potential for building dynamic and efficient applications.  
 🚀 My goal is to grow continuously and contribute to impactful projects that make a difference in the tech world!
 
 <img src="computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
