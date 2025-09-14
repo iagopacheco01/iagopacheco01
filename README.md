@@ -10,7 +10,6 @@
 
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
 [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)
-[![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?logo=asp.net&logoColor=fff)](#)
 [![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?logo=dotnet&logoColor=fff)](#)
 [![REST API](https://img.shields.io/badge/REST%20API-000?&logo=json&logoColor=fff)](#)
 
