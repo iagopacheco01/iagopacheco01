@@ -39,7 +39,7 @@
 </a>
 
 
-<a href="mailto:contact@iagopacheco.tech" target="_blank">
+<a href="mailto:contact@iagopacheco.dev" target="_blank">
   <img src="https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=maildotru&logoColor=white" alt="Email" />
 </a>
 
