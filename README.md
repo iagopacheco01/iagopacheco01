@@ -2,7 +2,6 @@
 
 🎓 Hi, I'm **Iago Pacheco**, a student passionate about technology and innovation. I'm currently pursuing a degree in Analysis and Systems Development, constantly learning and exploring new technologies to build efficient and innovative solutions.  
 📘 Currently specializing in **full-stack development** and exploring its vast potential for building dynamic and efficient applications.  
-📘 Currently specializing in **back-end development** and exploring its vast potential for building dynamic and efficient applications.  
 🚀 My goal is to grow continuously and contribute to impactful projects that make a difference in the tech world!
 
 <img src="computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
