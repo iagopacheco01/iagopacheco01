@@ -1,6 +1,7 @@
 ## About Me
 
 🎓 Hi, I'm **Iago Pacheco**, a student passionate about technology and innovation. I'm currently pursuing a degree in Analysis and Systems Development, constantly learning and exploring new technologies to build efficient and innovative solutions.  
+📘 Currently specializing in **full-stack development** and exploring its vast potential for building dynamic and efficient applications.  
 📘 Currently specializing in **back-end development** and exploring its vast potential for building dynamic and efficient applications.  
 🚀 My goal is to grow continuously and contribute to impactful projects that make a difference in the tech world!
 
@@ -8,10 +9,11 @@
 
 <h3>Skills</h3>
 
-[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
-[![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)
-[![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?logo=dotnet&logoColor=fff)](#)
-[![REST API](https://img.shields.io/badge/REST%20API-000?&logo=json&logoColor=fff)](#)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff)](#)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 
 **DevOps**
 
@@ -21,16 +23,14 @@
 
 **Development tools**
 
-[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
-[![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)](#)
-[![PowerShell](https://custom-icon-badges.demolab.com/badge/PowerShell-5391FE?logo=powershell&logoColor=white)](#)
-<br/>
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
+[![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff)](#)
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
+[![ESLint](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=fff)](#)
 
 
 <a href="https://github.com/iagopacheco01" title="Perfil do iago">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iagopacheco01&theme=tokyonight&show_icons=true" />
-</a>
-
 
 <h2>Contact Me</h2>
 
