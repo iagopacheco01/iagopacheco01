@@ -25,7 +25,7 @@ I'm currently pursuing a degree in **Analysis and Systems Development**, constan
 
 #### 🧰 Development Tools
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
-[![Rider](https://img.shields.io/badge/Rider-000000?logo=rider&logoColor=FF4785)](#)
+[![Rider](https://img.shields.io/badge/Rider-000?logo=rider&logoColor=fff)](#)
 [![Bash](https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white)](#)
 
 
