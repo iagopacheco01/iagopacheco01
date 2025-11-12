@@ -24,9 +24,9 @@ I'm currently pursuing a degree in **Analysis and Systems Development**, constan
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 
 #### 🧰 Development Tools
-[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
-[![Rider](https://img.shields.io/badge/Rider-000?logo=rider&logoColor=fff)](#)
-[![Bash](https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white)](#)
+[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
+[![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)](#)
+[![PowerShell](https://custom-icon-badges.demolab.com/badge/PowerShell-5391FE?logo=powershell&logoColor=white)](#)
 
 
 ---
