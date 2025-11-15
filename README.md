@@ -17,6 +17,7 @@ I'm currently pursuing a degree in **Analysis and Systems Development**, constan
 [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)
 [![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?logo=dotnet&logoColor=fff)](#)
 [![REST API](https://img.shields.io/badge/REST%20API-000?&logo=json&logoColor=fff)](#)
+[![Solid](https://img.shields.io/badge/Solid-2C4F7C?logo=solid&logoColor=fff)](#)
 
 #### ⚙️ DevOps & Version Control
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
