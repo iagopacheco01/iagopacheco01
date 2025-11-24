@@ -43,17 +43,17 @@ I'm currently pursuing a degree in **Analysis and Systems Development**, constan
 
 ### 📫 Contact Me
 
+
 <a href="https://www.linkedin.com/in/iago-pacheco-120a88242/" target="_blank">
-  <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-
 <a href="mailto:contact@iagopacheco.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-0078D4?logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://discordapp.com/users/997994772180504607" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" alt="Discord" />
 </a>
 
-<a href="https://discordapp.com/users/997994772180504607" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
-</a>
 
 ---
 
