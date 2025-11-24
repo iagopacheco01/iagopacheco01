@@ -53,6 +53,11 @@ I'm currently pursuing a degree in **Analysis and Systems Development**, constan
 <a href="https://discordapp.com/users/997994772180504607" target="_blank">
   <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" alt="Discord" />
 </a>
+<a href="https://https://jumble.social//npub156asc7jrxhs5jzkapw2qc4e8ah786m5sm6cnqz3aeup8cz6rswvqjj6l00" target="_blank">
+  <img src="https://img.shields.io/badge/Nostr-792EE5?logo=nostr&logoColor=CDCDCD" alt="Nostr" />
+</a>
+
+
 
 
 ---
