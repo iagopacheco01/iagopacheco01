@@ -34,9 +34,11 @@ I'm currently pursuing a degree in **Analysis and Systems Development**, constan
 
 ### 📊 GitHub Stats
 
-<a href="https://github.com/iagopacheco01">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iagopacheco01&theme=tokyonight&show_icons=true" alt="Iago's GitHub stats"/>
-</a>
+<div style="display: flex; gap: 10px;">
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iagopacheco01&show_icons=true&theme=tokyonight" />
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iagopacheco01&layout=compact&theme=tokyonight" />
+</div>
+
 
 
 ---
