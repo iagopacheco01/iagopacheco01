@@ -49,7 +49,7 @@ I'm currently pursuing a degree in **Analysis and Systems Development**, constan
 <a href="https://www.linkedin.com/in/iago-pacheco-120a88242/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="mailto:contact@iagopacheco.dev" target="_blank">
+<a href="mailto:iagopacheco01@icloud.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-0078D4?logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://discordapp.com/users/997994772180504607" target="_blank">
